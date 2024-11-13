@@ -25,17 +25,17 @@ During exploration:
 ### Depth-First Search (DFS)
 DFS explores as far as possible along each path before backtracking. It’s memory-efficient but may not find the shortest path.
 
-![DFS Animation](./path_to_dfs.gif)
+![DFS Animation](./Media/DFS.gif)
 
 ### Breadth-First Search (BFS)
 BFS explores all nodes at the current depth before moving deeper, ensuring the shortest path in unweighted grids.
 
-![BFS Animation](./path_to_bfs.gif)
+![BFS Animation](./Media/BFS.gif)
 
 ### A* Search
 A* combines BFS with heuristics to prioritize nodes closer to the goal, making it efficient and optimal in finding the shortest path.
 
-![A* Animation](./path_to_astar.gif)
+![A* Animation](./Media/Astar.gif)
 
 ## Dependencies
 
